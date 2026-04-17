@@ -1,3 +1,5 @@
+<h1 align="center">LİNUS TECHS A LİNUX DİSTRİBUTİON.</h1>
+
 # Linus-Techs-OS---Kernel-Life
 # 🐧 Linus Tech's OS: The Pure Root Manifesto
 
