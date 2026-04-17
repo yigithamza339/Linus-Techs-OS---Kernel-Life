@@ -35,27 +35,6 @@ Bu sadece bir metin değil; binlerce satır kodun, hatasız derlenmiş bir kerne
 
 ---
 
-## 🛠 Temel Sistem Komutları (The Core Toolkit)
-
-Linus Tech's OS, kullanıcısına sistemin her hücresine müdahale etme şansı tanır. İşte sistemin yönetimini sağlayan o özel komut setleri:
-
-### Sistem İnşası ve Enjeksiyon
-
-* `lt-init-root`: Boş bir disk üzerinde Linus Tech's dosya hiyerarşisini sıfırdan hayata geçirir.
-* `lt-kernel-inject`: Derlenmiş çekirdeği sisteme mühürler ve boot parametrelerini hazırlar.
-
-### Derleme ve Optimizasyon
-
-* `lt-build [source]`: Kaynak kodu alır, yerel mimari için en hızlı şekilde derler ve sisteme dahil eder.
-* `lt-strip`: Sistemdeki kütüphaneleri tarayarak gereksiz tüm veriyi temizler, saf performansa odaklar.
-
-### Güvenlik ve Mühürleme
-
-* `lt-root-seal`: Kök dizini salt okunur hale getirerek sistemi dışarıdan gelecek her türlü değişikliğe karşı kilitler.
-* `lt-nuke-bloat`: Sisteme sonradan sızmış veya eklenmiş tüm gereksiz paketleri ve kalıntıları tek seferde yok eder.
-
----
-
 ## 🤝 Katkıda Bulunma
 
 Bu proje, "Ben Linux biliyorum" diyenlerin değil, "Ben Linux yapıyorum" diyenlerin yeridir. GitHub depomuza yıldız atarak bu devrime ortak olabilir, build scriptlerimizi inceleyerek sistemin gelişimine katkı sağlayabilirsiniz.
