@@ -43,4 +43,28 @@ Bu proje, "Ben Linux biliyorum" diyenlerin değil, "Ben Linux yapıyorum" diyenl
 
 ---
 
-Bu README dosyasını GitHub depona ekleyebilirsin. Başka bir bölüm eklememi ya da teknik detayları genişletmemi ister misin?
+Kurulum İçin:
+```ash
+fdisk /dev/[SENİN DİSKİN]
+n
+p
+1
+enter
+enter
+w
+```
+Ardından:
+```ash
+mke2fs /dev/[OLUŞAN DİSK]
+enter
+enter
+```
+mnt'yi mountluyoruz:
+```ash
+mount /dev/[HAZIR OLAN DİSK]
+```
+kurulum bu kadardı...
+İYİ KULLANIMLAR DİLERİM
+Linus Tech's. A Linux distribution...
+Linus Tech's. Bir Linux dağıtımı....
+
