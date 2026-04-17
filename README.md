@@ -1,5 +1,5 @@
 <h1 align="center">LİNUS TECHS A LİNUX DİSTRİBUTİON.</h1>
-$\mathbb {LİNUS TECHS}$
+$\mathbb {LİNUSTECHS}$
 
 # Linus-Techs-OS---Kernel-Life
 # 🐧 Linus Tech's OS: The Pure Root Manifesto
