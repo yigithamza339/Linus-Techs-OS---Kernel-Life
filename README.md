@@ -1,5 +1,6 @@
 <h1 align="center">LİNUS TECHS A LİNUX DİSTRİBUTİON.</h1>
-$\mathbb {LİNUSTECHS}$
+
+<a href="https://linustechs.netlify.app/"><button>Linus Techs</button></a>
 
 # Linus-Techs-OS---Kernel-Life
 # 🐧 Linus Tech's OS: The Pure Root Manifesto
